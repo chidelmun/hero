@@ -10,10 +10,10 @@ class App extends Component {
 
           </div>
           <hr/>
-          <div className="row">
-            <div className="col-md-6 left"> </div>
-            <div className="col-md-6 right"> </div>
-          </div>
+            <div className="row">
+              <div className="col-md-6 left"> </div>
+              <div className="col-md-6 right"> </div>
+            </div>
 
           <hr/>
       </div>
